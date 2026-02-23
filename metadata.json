@@ -1,0 +1,5 @@
+{
+  "name": "Beating Heart Animation",
+  "description": "A beautiful, mathematically-generated beating heart animation using parametric equations and particle systems.",
+  "requestFramePermissions": []
+}
